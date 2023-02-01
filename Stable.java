@@ -4,6 +4,7 @@ public class Stable{
       
       int i = 4;
       int j = 54;
+      int k = 555;
   }
   
   public static void uselessFunction(){
