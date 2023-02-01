@@ -1,6 +1,6 @@
 public class Stable{
   public static void main(String[] args){
-    System.out.println("SemiColons Are Important.")
+    System.out.println("DONE.");
       
       int i = 4;
       int j = 54;
