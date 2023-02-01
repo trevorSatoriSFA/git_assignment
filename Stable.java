@@ -14,6 +14,7 @@ public class Stable{
   
   public static void uselessFunction3(){
     System.out.println("Ballin Like Mike");
+    System.out.println("Ballin Like Mike");
   }
 
 }
