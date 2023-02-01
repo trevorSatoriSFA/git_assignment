@@ -10,6 +10,7 @@ public class Stable{
   public static void uselessFunction2(){
     System.out.println("Am I Right");
     System.out.println("Am I Right");
+    System.out.println("Am I Right");
   }
   
   public static void uselessFunction3(){
