@@ -16,5 +16,11 @@ public class Stable{
     System.out.println("Ballin Like Mike");
     System.out.println("Ballin Like Mike");
   }
+  
+  public static void experimental(){
+    System.out.println("Am I Right");
+    System.out.println("Am I Right");
+    System.out.println("Am I Right");
+  }
 
 }
