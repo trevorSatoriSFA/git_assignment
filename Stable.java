@@ -3,6 +3,7 @@ public class Stable{
     System.out.println("SemiColons Are Important.")
       
       int i = 4;
+      int j = 54;
   }
 
 }
