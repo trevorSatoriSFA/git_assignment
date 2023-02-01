@@ -13,6 +13,7 @@ public class Stable{
   
   public static void experimental(){
     System.out.println("Am I Right");
+    System.out.println("Am I Right");
   }
 
 }
